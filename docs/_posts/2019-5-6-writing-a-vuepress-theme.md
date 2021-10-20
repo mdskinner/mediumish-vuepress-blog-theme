@@ -1,5 +1,5 @@
 ---
-title: Writing a vuepress theme
+title: Writing a vuepress theme2
 date: 2019-5-6
 tags:
 - theme
